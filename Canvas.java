@@ -5,6 +5,6 @@ class Canvas {
     
 
     public void add(Point point) {
-        this.students.add(student);
+        this.students.add(point);
     }
 }
